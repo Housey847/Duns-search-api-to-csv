@@ -8,6 +8,8 @@ Created on Fri May 29 11:58:54 2020
 import requests
 import json
 import csv
+import time
+
 
 
 responses = list() # stores responses 
